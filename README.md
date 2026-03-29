@@ -1,8 +1,6 @@
-
-#  **README.md**
+#  Hindi ASR Pipeline using Whisper-small
 
 ```markdown
-# 🎙️ Hindi ASR Pipeline using Whisper-small
 
 An end-to-end Automatic Speech Recognition (ASR) project for Hindi speech data using Whisper-small.  
 This project covers data preprocessing, baseline evaluation, fine-tuning, error analysis, and transcript cleanup.
